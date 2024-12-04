@@ -25,6 +25,14 @@ Se você ama games e quer conhecer grandes nomes enquanto aproveita uma apresent
 
 ---
 
+## **Veja o Projeto Online!**  
+Você pode conferir como ficou acessando o link abaixo:  
+👉 **[I Love Images - Veja Aqui](https://everton-nfs.github.io/i-love-images/)**  
+
+---
+
+## **Como Rodar o Projeto Localmente**  
+
 ## **Como Rodar o Projeto**  
 
 ### **Passo a Passo**  
